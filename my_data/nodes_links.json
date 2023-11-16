@@ -1,0 +1,2268 @@
+{
+    "nodes": [
+        {
+            "name": "california"
+        },
+        {
+            "name": "colorado"
+        },
+        {
+            "name": "district of columbia"
+        },
+        {
+            "name": "florida"
+        },
+        {
+            "name": "louisiana"
+        },
+        {
+            "name": "maryland"
+        },
+        {
+            "name": "michigan"
+        },
+        {
+            "name": "missouri"
+        },
+        {
+            "name": "new york"
+        },
+        {
+            "name": "ohio"
+        },
+        {
+            "name": "oregon"
+        },
+        {
+            "name": "texas"
+        },
+        {
+            "name": "washington"
+        },
+        {
+            "name": "wisconsin"
+        },
+        {
+            "name": "new york"
+        },
+        {
+            "name": "los angeles"
+        },
+        {
+            "name": "denver"
+        },
+        {
+            "name": "portland"
+        },
+        {
+            "name": "san diego"
+        },
+        {
+            "name": "houston"
+        },
+        {
+            "name": "san francisco"
+        },
+        {
+            "name": "washington dc"
+        },
+        {
+            "name": "seattle"
+        },
+        {
+            "name": "columbus"
+        },
+        {
+            "name": "baltimore"
+        },
+        {
+            "name": "new orleans"
+        },
+        {
+            "name": "stockton"
+        },
+        {
+            "name": "sacramento"
+        },
+        {
+            "name": "madison"
+        },
+        {
+            "name": "st louis"
+        },
+        {
+            "name": "rancho cucamonga"
+        },
+        {
+            "name": "buffalo"
+        },
+        {
+            "name": "grand rapids"
+        },
+        {
+            "name": "orlando"
+        },
+        {
+            "name": "platanus acerifolia"
+        },
+        {
+            "name": "lagerstroemia indica"
+        },
+        {
+            "name": "acer platanoides"
+        },
+        {
+            "name": "gleditsia triacanthos"
+        },
+        {
+            "name": "pyrus calleryana"
+        },
+        {
+            "name": "acer rubrum"
+        },
+        {
+            "name": "fraxinus pennsylvanica"
+        },
+        {
+            "name": "quercus virginiana"
+        },
+        {
+            "name": "liquidambar styraciflua"
+        },
+        {
+            "name": "tilia cordata"
+        },
+        {
+            "name": "quercus palustris"
+        },
+        {
+            "name": "washingtonia robusta"
+        },
+        {
+            "name": "prunus"
+        },
+        {
+            "name": "magnolia grandiflora"
+        },
+        {
+            "name": "acer saccharinum"
+        },
+        {
+            "name": "zelkova serrata"
+        },
+        {
+            "name": "celtis occidentalis"
+        },
+        {
+            "name": "ulmus parvifolia"
+        },
+        {
+            "name": "ginkgo biloba"
+        },
+        {
+            "name": "quercus rubra"
+        }
+    ],
+    "links": [
+        {
+            "source": "california",
+            "target": "los angeles",
+            "value": 573610
+        },
+        {
+            "source": "los angeles",
+            "target": "platanus acerifolia",
+            "value": 17477
+        },
+        {
+            "source": "los angeles",
+            "target": "lagerstroemia indica",
+            "value": 34729
+        },
+        {
+            "source": "los angeles",
+            "target": "acer platanoides",
+            "value": 6
+        },
+        {
+            "source": "los angeles",
+            "target": "gleditsia triacanthos",
+            "value": 456
+        },
+        {
+            "source": "los angeles",
+            "target": "pyrus calleryana",
+            "value": 7500
+        },
+        {
+            "source": "los angeles",
+            "target": "acer rubrum",
+            "value": 15
+        },
+        {
+            "source": "los angeles",
+            "target": "fraxinus pennsylvanica",
+            "value": 0
+        },
+        {
+            "source": "los angeles",
+            "target": "quercus virginiana",
+            "value": 245
+        },
+        {
+            "source": "los angeles",
+            "target": "liquidambar styraciflua",
+            "value": 30061
+        },
+        {
+            "source": "los angeles",
+            "target": "tilia cordata",
+            "value": 0
+        },
+        {
+            "source": "los angeles",
+            "target": "quercus palustris",
+            "value": 24
+        },
+        {
+            "source": "los angeles",
+            "target": "washingtonia robusta",
+            "value": 37971
+        },
+        {
+            "source": "los angeles",
+            "target": "prunus",
+            "value": 132
+        },
+        {
+            "source": "los angeles",
+            "target": "magnolia grandiflora",
+            "value": 30988
+        },
+        {
+            "source": "los angeles",
+            "target": "acer saccharinum",
+            "value": 1371
+        },
+        {
+            "source": "los angeles",
+            "target": "zelkova serrata",
+            "value": 940
+        },
+        {
+            "source": "los angeles",
+            "target": "celtis occidentalis",
+            "value": 34
+        },
+        {
+            "source": "los angeles",
+            "target": "ulmus parvifolia",
+            "value": 13920
+        },
+        {
+            "source": "los angeles",
+            "target": "ginkgo biloba",
+            "value": 1077
+        },
+        {
+            "source": "los angeles",
+            "target": "quercus rubra",
+            "value": 92
+        },
+        {
+            "source": "california",
+            "target": "rancho cucamonga",
+            "value": 80259
+        },
+        {
+            "source": "rancho cucamonga",
+            "target": "platanus acerifolia",
+            "value": 5698
+        },
+        {
+            "source": "rancho cucamonga",
+            "target": "lagerstroemia indica",
+            "value": 12889
+        },
+        {
+            "source": "rancho cucamonga",
+            "target": "acer platanoides",
+            "value": 0
+        },
+        {
+            "source": "rancho cucamonga",
+            "target": "gleditsia triacanthos",
+            "value": 8
+        },
+        {
+            "source": "rancho cucamonga",
+            "target": "pyrus calleryana",
+            "value": 4941
+        },
+        {
+            "source": "rancho cucamonga",
+            "target": "acer rubrum",
+            "value": 19
+        },
+        {
+            "source": "rancho cucamonga",
+            "target": "fraxinus pennsylvanica",
+            "value": 0
+        },
+        {
+            "source": "rancho cucamonga",
+            "target": "quercus virginiana",
+            "value": 351
+        },
+        {
+            "source": "rancho cucamonga",
+            "target": "liquidambar styraciflua",
+            "value": 3727
+        },
+        {
+            "source": "rancho cucamonga",
+            "target": "tilia cordata",
+            "value": 0
+        },
+        {
+            "source": "rancho cucamonga",
+            "target": "quercus palustris",
+            "value": 13
+        },
+        {
+            "source": "rancho cucamonga",
+            "target": "washingtonia robusta",
+            "value": 2249
+        },
+        {
+            "source": "rancho cucamonga",
+            "target": "prunus",
+            "value": 0
+        },
+        {
+            "source": "rancho cucamonga",
+            "target": "magnolia grandiflora",
+            "value": 5016
+        },
+        {
+            "source": "rancho cucamonga",
+            "target": "acer saccharinum",
+            "value": 88
+        },
+        {
+            "source": "rancho cucamonga",
+            "target": "zelkova serrata",
+            "value": 242
+        },
+        {
+            "source": "rancho cucamonga",
+            "target": "celtis occidentalis",
+            "value": 0
+        },
+        {
+            "source": "rancho cucamonga",
+            "target": "ulmus parvifolia",
+            "value": 310
+        },
+        {
+            "source": "rancho cucamonga",
+            "target": "ginkgo biloba",
+            "value": 832
+        },
+        {
+            "source": "rancho cucamonga",
+            "target": "quercus rubra",
+            "value": 9
+        },
+        {
+            "source": "california",
+            "target": "sacramento",
+            "value": 84260
+        },
+        {
+            "source": "sacramento",
+            "target": "platanus acerifolia",
+            "value": 14111
+        },
+        {
+            "source": "sacramento",
+            "target": "lagerstroemia indica",
+            "value": 4146
+        },
+        {
+            "source": "sacramento",
+            "target": "acer platanoides",
+            "value": 79
+        },
+        {
+            "source": "sacramento",
+            "target": "gleditsia triacanthos",
+            "value": 0
+        },
+        {
+            "source": "sacramento",
+            "target": "pyrus calleryana",
+            "value": 4285
+        },
+        {
+            "source": "sacramento",
+            "target": "acer rubrum",
+            "value": 1924
+        },
+        {
+            "source": "sacramento",
+            "target": "fraxinus pennsylvanica",
+            "value": 0
+        },
+        {
+            "source": "sacramento",
+            "target": "quercus virginiana",
+            "value": 0
+        },
+        {
+            "source": "sacramento",
+            "target": "liquidambar styraciflua",
+            "value": 1933
+        },
+        {
+            "source": "sacramento",
+            "target": "tilia cordata",
+            "value": 0
+        },
+        {
+            "source": "sacramento",
+            "target": "quercus palustris",
+            "value": 312
+        },
+        {
+            "source": "sacramento",
+            "target": "washingtonia robusta",
+            "value": 1535
+        },
+        {
+            "source": "sacramento",
+            "target": "prunus",
+            "value": 530
+        },
+        {
+            "source": "sacramento",
+            "target": "magnolia grandiflora",
+            "value": 1151
+        },
+        {
+            "source": "sacramento",
+            "target": "acer saccharinum",
+            "value": 358
+        },
+        {
+            "source": "sacramento",
+            "target": "zelkova serrata",
+            "value": 3861
+        },
+        {
+            "source": "sacramento",
+            "target": "celtis occidentalis",
+            "value": 1171
+        },
+        {
+            "source": "sacramento",
+            "target": "ulmus parvifolia",
+            "value": 4047
+        },
+        {
+            "source": "sacramento",
+            "target": "ginkgo biloba",
+            "value": 1175
+        },
+        {
+            "source": "sacramento",
+            "target": "quercus rubra",
+            "value": 1733
+        },
+        {
+            "source": "california",
+            "target": "san diego",
+            "value": 212220
+        },
+        {
+            "source": "san diego",
+            "target": "platanus acerifolia",
+            "value": 1907
+        },
+        {
+            "source": "san diego",
+            "target": "lagerstroemia indica",
+            "value": 2207
+        },
+        {
+            "source": "san diego",
+            "target": "acer platanoides",
+            "value": 0
+        },
+        {
+            "source": "san diego",
+            "target": "gleditsia triacanthos",
+            "value": 0
+        },
+        {
+            "source": "san diego",
+            "target": "pyrus calleryana",
+            "value": 1986
+        },
+        {
+            "source": "san diego",
+            "target": "acer rubrum",
+            "value": 0
+        },
+        {
+            "source": "san diego",
+            "target": "fraxinus pennsylvanica",
+            "value": 0
+        },
+        {
+            "source": "san diego",
+            "target": "quercus virginiana",
+            "value": 0
+        },
+        {
+            "source": "san diego",
+            "target": "liquidambar styraciflua",
+            "value": 10323
+        },
+        {
+            "source": "san diego",
+            "target": "tilia cordata",
+            "value": 0
+        },
+        {
+            "source": "san diego",
+            "target": "quercus palustris",
+            "value": 0
+        },
+        {
+            "source": "san diego",
+            "target": "washingtonia robusta",
+            "value": 15129
+        },
+        {
+            "source": "san diego",
+            "target": "prunus",
+            "value": 0
+        },
+        {
+            "source": "san diego",
+            "target": "magnolia grandiflora",
+            "value": 3463
+        },
+        {
+            "source": "san diego",
+            "target": "acer saccharinum",
+            "value": 89
+        },
+        {
+            "source": "san diego",
+            "target": "zelkova serrata",
+            "value": 0
+        },
+        {
+            "source": "san diego",
+            "target": "celtis occidentalis",
+            "value": 0
+        },
+        {
+            "source": "san diego",
+            "target": "ulmus parvifolia",
+            "value": 1349
+        },
+        {
+            "source": "san diego",
+            "target": "ginkgo biloba",
+            "value": 113
+        },
+        {
+            "source": "san diego",
+            "target": "quercus rubra",
+            "value": 0
+        },
+        {
+            "source": "california",
+            "target": "san francisco",
+            "value": 173474
+        },
+        {
+            "source": "san francisco",
+            "target": "platanus acerifolia",
+            "value": 11925
+        },
+        {
+            "source": "san francisco",
+            "target": "lagerstroemia indica",
+            "value": 102
+        },
+        {
+            "source": "san francisco",
+            "target": "acer platanoides",
+            "value": 2
+        },
+        {
+            "source": "san francisco",
+            "target": "gleditsia triacanthos",
+            "value": 117
+        },
+        {
+            "source": "san francisco",
+            "target": "pyrus calleryana",
+            "value": 4036
+        },
+        {
+            "source": "san francisco",
+            "target": "acer rubrum",
+            "value": 987
+        },
+        {
+            "source": "san francisco",
+            "target": "fraxinus pennsylvanica",
+            "value": 0
+        },
+        {
+            "source": "san francisco",
+            "target": "quercus virginiana",
+            "value": 58
+        },
+        {
+            "source": "san francisco",
+            "target": "liquidambar styraciflua",
+            "value": 1592
+        },
+        {
+            "source": "san francisco",
+            "target": "tilia cordata",
+            "value": 131
+        },
+        {
+            "source": "san francisco",
+            "target": "quercus palustris",
+            "value": 9
+        },
+        {
+            "source": "san francisco",
+            "target": "washingtonia robusta",
+            "value": 967
+        },
+        {
+            "source": "san francisco",
+            "target": "prunus",
+            "value": 207
+        },
+        {
+            "source": "san francisco",
+            "target": "magnolia grandiflora",
+            "value": 7793
+        },
+        {
+            "source": "san francisco",
+            "target": "acer saccharinum",
+            "value": 79
+        },
+        {
+            "source": "san francisco",
+            "target": "zelkova serrata",
+            "value": 54
+        },
+        {
+            "source": "san francisco",
+            "target": "celtis occidentalis",
+            "value": 30
+        },
+        {
+            "source": "san francisco",
+            "target": "ulmus parvifolia",
+            "value": 2485
+        },
+        {
+            "source": "san francisco",
+            "target": "ginkgo biloba",
+            "value": 3349
+        },
+        {
+            "source": "san francisco",
+            "target": "quercus rubra",
+            "value": 24
+        },
+        {
+            "source": "california",
+            "target": "stockton",
+            "value": 97707
+        },
+        {
+            "source": "stockton",
+            "target": "platanus acerifolia",
+            "value": 7552
+        },
+        {
+            "source": "stockton",
+            "target": "lagerstroemia indica",
+            "value": 7354
+        },
+        {
+            "source": "stockton",
+            "target": "acer platanoides",
+            "value": 123
+        },
+        {
+            "source": "stockton",
+            "target": "gleditsia triacanthos",
+            "value": 324
+        },
+        {
+            "source": "stockton",
+            "target": "pyrus calleryana",
+            "value": 5296
+        },
+        {
+            "source": "stockton",
+            "target": "acer rubrum",
+            "value": 1812
+        },
+        {
+            "source": "stockton",
+            "target": "fraxinus pennsylvanica",
+            "value": 21
+        },
+        {
+            "source": "stockton",
+            "target": "quercus virginiana",
+            "value": 137
+        },
+        {
+            "source": "stockton",
+            "target": "liquidambar styraciflua",
+            "value": 4110
+        },
+        {
+            "source": "stockton",
+            "target": "tilia cordata",
+            "value": 895
+        },
+        {
+            "source": "stockton",
+            "target": "quercus palustris",
+            "value": 661
+        },
+        {
+            "source": "stockton",
+            "target": "washingtonia robusta",
+            "value": 780
+        },
+        {
+            "source": "stockton",
+            "target": "prunus",
+            "value": 117
+        },
+        {
+            "source": "stockton",
+            "target": "magnolia grandiflora",
+            "value": 3762
+        },
+        {
+            "source": "stockton",
+            "target": "acer saccharinum",
+            "value": 164
+        },
+        {
+            "source": "stockton",
+            "target": "zelkova serrata",
+            "value": 3379
+        },
+        {
+            "source": "stockton",
+            "target": "celtis occidentalis",
+            "value": 387
+        },
+        {
+            "source": "stockton",
+            "target": "ulmus parvifolia",
+            "value": 353
+        },
+        {
+            "source": "stockton",
+            "target": "ginkgo biloba",
+            "value": 786
+        },
+        {
+            "source": "stockton",
+            "target": "quercus rubra",
+            "value": 378
+        },
+        {
+            "source": "colorado",
+            "target": "denver",
+            "value": 283281
+        },
+        {
+            "source": "denver",
+            "target": "platanus acerifolia",
+            "value": 1814
+        },
+        {
+            "source": "denver",
+            "target": "lagerstroemia indica",
+            "value": 0
+        },
+        {
+            "source": "denver",
+            "target": "acer platanoides",
+            "value": 7945
+        },
+        {
+            "source": "denver",
+            "target": "gleditsia triacanthos",
+            "value": 23565
+        },
+        {
+            "source": "denver",
+            "target": "pyrus calleryana",
+            "value": 7133
+        },
+        {
+            "source": "denver",
+            "target": "acer rubrum",
+            "value": 3084
+        },
+        {
+            "source": "denver",
+            "target": "fraxinus pennsylvanica",
+            "value": 25736
+        },
+        {
+            "source": "denver",
+            "target": "quercus virginiana",
+            "value": 0
+        },
+        {
+            "source": "denver",
+            "target": "liquidambar styraciflua",
+            "value": 84
+        },
+        {
+            "source": "denver",
+            "target": "tilia cordata",
+            "value": 12961
+        },
+        {
+            "source": "denver",
+            "target": "quercus palustris",
+            "value": 296
+        },
+        {
+            "source": "denver",
+            "target": "washingtonia robusta",
+            "value": 0
+        },
+        {
+            "source": "denver",
+            "target": "prunus",
+            "value": 666
+        },
+        {
+            "source": "denver",
+            "target": "magnolia grandiflora",
+            "value": 1
+        },
+        {
+            "source": "denver",
+            "target": "acer saccharinum",
+            "value": 12735
+        },
+        {
+            "source": "denver",
+            "target": "zelkova serrata",
+            "value": 474
+        },
+        {
+            "source": "denver",
+            "target": "celtis occidentalis",
+            "value": 9060
+        },
+        {
+            "source": "denver",
+            "target": "ulmus parvifolia",
+            "value": 72
+        },
+        {
+            "source": "denver",
+            "target": "ginkgo biloba",
+            "value": 749
+        },
+        {
+            "source": "denver",
+            "target": "quercus rubra",
+            "value": 4846
+        },
+        {
+            "source": "district of columbia",
+            "target": "washington dc",
+            "value": 167869
+        },
+        {
+            "source": "washington dc",
+            "target": "platanus acerifolia",
+            "value": 5745
+        },
+        {
+            "source": "washington dc",
+            "target": "lagerstroemia indica",
+            "value": 4324
+        },
+        {
+            "source": "washington dc",
+            "target": "acer platanoides",
+            "value": 3403
+        },
+        {
+            "source": "washington dc",
+            "target": "gleditsia triacanthos",
+            "value": 1911
+        },
+        {
+            "source": "washington dc",
+            "target": "pyrus calleryana",
+            "value": 952
+        },
+        {
+            "source": "washington dc",
+            "target": "acer rubrum",
+            "value": 12709
+        },
+        {
+            "source": "washington dc",
+            "target": "fraxinus pennsylvanica",
+            "value": 55
+        },
+        {
+            "source": "washington dc",
+            "target": "quercus virginiana",
+            "value": 2
+        },
+        {
+            "source": "washington dc",
+            "target": "liquidambar styraciflua",
+            "value": 2835
+        },
+        {
+            "source": "washington dc",
+            "target": "tilia cordata",
+            "value": 2705
+        },
+        {
+            "source": "washington dc",
+            "target": "quercus palustris",
+            "value": 8904
+        },
+        {
+            "source": "washington dc",
+            "target": "washingtonia robusta",
+            "value": 0
+        },
+        {
+            "source": "washington dc",
+            "target": "prunus",
+            "value": 4012
+        },
+        {
+            "source": "washington dc",
+            "target": "magnolia grandiflora",
+            "value": 358
+        },
+        {
+            "source": "washington dc",
+            "target": "acer saccharinum",
+            "value": 1127
+        },
+        {
+            "source": "washington dc",
+            "target": "zelkova serrata",
+            "value": 6343
+        },
+        {
+            "source": "washington dc",
+            "target": "celtis occidentalis",
+            "value": 2095
+        },
+        {
+            "source": "washington dc",
+            "target": "ulmus parvifolia",
+            "value": 3736
+        },
+        {
+            "source": "washington dc",
+            "target": "ginkgo biloba",
+            "value": 4731
+        },
+        {
+            "source": "washington dc",
+            "target": "quercus rubra",
+            "value": 5849
+        },
+        {
+            "source": "florida",
+            "target": "orlando",
+            "value": 66184
+        },
+        {
+            "source": "orlando",
+            "target": "platanus acerifolia",
+            "value": 0
+        },
+        {
+            "source": "orlando",
+            "target": "lagerstroemia indica",
+            "value": 14988
+        },
+        {
+            "source": "orlando",
+            "target": "acer platanoides",
+            "value": 0
+        },
+        {
+            "source": "orlando",
+            "target": "gleditsia triacanthos",
+            "value": 1
+        },
+        {
+            "source": "orlando",
+            "target": "pyrus calleryana",
+            "value": 113
+        },
+        {
+            "source": "orlando",
+            "target": "acer rubrum",
+            "value": 1814
+        },
+        {
+            "source": "orlando",
+            "target": "fraxinus pennsylvanica",
+            "value": 11
+        },
+        {
+            "source": "orlando",
+            "target": "quercus virginiana",
+            "value": 17126
+        },
+        {
+            "source": "orlando",
+            "target": "liquidambar styraciflua",
+            "value": 284
+        },
+        {
+            "source": "orlando",
+            "target": "tilia cordata",
+            "value": 0
+        },
+        {
+            "source": "orlando",
+            "target": "quercus palustris",
+            "value": 0
+        },
+        {
+            "source": "orlando",
+            "target": "washingtonia robusta",
+            "value": 1384
+        },
+        {
+            "source": "orlando",
+            "target": "prunus",
+            "value": 32
+        },
+        {
+            "source": "orlando",
+            "target": "magnolia grandiflora",
+            "value": 1952
+        },
+        {
+            "source": "orlando",
+            "target": "acer saccharinum",
+            "value": 0
+        },
+        {
+            "source": "orlando",
+            "target": "zelkova serrata",
+            "value": 0
+        },
+        {
+            "source": "orlando",
+            "target": "celtis occidentalis",
+            "value": 0
+        },
+        {
+            "source": "orlando",
+            "target": "ulmus parvifolia",
+            "value": 2609
+        },
+        {
+            "source": "orlando",
+            "target": "ginkgo biloba",
+            "value": 1
+        },
+        {
+            "source": "orlando",
+            "target": "quercus rubra",
+            "value": 0
+        },
+        {
+            "source": "louisiana",
+            "target": "new orleans",
+            "value": 104072
+        },
+        {
+            "source": "new orleans",
+            "target": "platanus acerifolia",
+            "value": 0
+        },
+        {
+            "source": "new orleans",
+            "target": "lagerstroemia indica",
+            "value": 30244
+        },
+        {
+            "source": "new orleans",
+            "target": "acer platanoides",
+            "value": 0
+        },
+        {
+            "source": "new orleans",
+            "target": "gleditsia triacanthos",
+            "value": 11
+        },
+        {
+            "source": "new orleans",
+            "target": "pyrus calleryana",
+            "value": 2043
+        },
+        {
+            "source": "new orleans",
+            "target": "acer rubrum",
+            "value": 1379
+        },
+        {
+            "source": "new orleans",
+            "target": "fraxinus pennsylvanica",
+            "value": 153
+        },
+        {
+            "source": "new orleans",
+            "target": "quercus virginiana",
+            "value": 21775
+        },
+        {
+            "source": "new orleans",
+            "target": "liquidambar styraciflua",
+            "value": 253
+        },
+        {
+            "source": "new orleans",
+            "target": "tilia cordata",
+            "value": 0
+        },
+        {
+            "source": "new orleans",
+            "target": "quercus palustris",
+            "value": 14
+        },
+        {
+            "source": "new orleans",
+            "target": "washingtonia robusta",
+            "value": 669
+        },
+        {
+            "source": "new orleans",
+            "target": "prunus",
+            "value": 156
+        },
+        {
+            "source": "new orleans",
+            "target": "magnolia grandiflora",
+            "value": 3471
+        },
+        {
+            "source": "new orleans",
+            "target": "acer saccharinum",
+            "value": 13
+        },
+        {
+            "source": "new orleans",
+            "target": "zelkova serrata",
+            "value": 3
+        },
+        {
+            "source": "new orleans",
+            "target": "celtis occidentalis",
+            "value": 1
+        },
+        {
+            "source": "new orleans",
+            "target": "ulmus parvifolia",
+            "value": 1877
+        },
+        {
+            "source": "new orleans",
+            "target": "ginkgo biloba",
+            "value": 222
+        },
+        {
+            "source": "new orleans",
+            "target": "quercus rubra",
+            "value": 0
+        },
+        {
+            "source": "maryland",
+            "target": "baltimore",
+            "value": 120183
+        },
+        {
+            "source": "baltimore",
+            "target": "platanus acerifolia",
+            "value": 6031
+        },
+        {
+            "source": "baltimore",
+            "target": "lagerstroemia indica",
+            "value": 1584
+        },
+        {
+            "source": "baltimore",
+            "target": "acer platanoides",
+            "value": 3716
+        },
+        {
+            "source": "baltimore",
+            "target": "gleditsia triacanthos",
+            "value": 3276
+        },
+        {
+            "source": "baltimore",
+            "target": "pyrus calleryana",
+            "value": 4747
+        },
+        {
+            "source": "baltimore",
+            "target": "acer rubrum",
+            "value": 12895
+        },
+        {
+            "source": "baltimore",
+            "target": "fraxinus pennsylvanica",
+            "value": 1111
+        },
+        {
+            "source": "baltimore",
+            "target": "quercus virginiana",
+            "value": 12
+        },
+        {
+            "source": "baltimore",
+            "target": "liquidambar styraciflua",
+            "value": 2466
+        },
+        {
+            "source": "baltimore",
+            "target": "tilia cordata",
+            "value": 5932
+        },
+        {
+            "source": "baltimore",
+            "target": "quercus palustris",
+            "value": 2426
+        },
+        {
+            "source": "baltimore",
+            "target": "washingtonia robusta",
+            "value": 0
+        },
+        {
+            "source": "baltimore",
+            "target": "prunus",
+            "value": 5785
+        },
+        {
+            "source": "baltimore",
+            "target": "magnolia grandiflora",
+            "value": 170
+        },
+        {
+            "source": "baltimore",
+            "target": "acer saccharinum",
+            "value": 2663
+        },
+        {
+            "source": "baltimore",
+            "target": "zelkova serrata",
+            "value": 6713
+        },
+        {
+            "source": "baltimore",
+            "target": "celtis occidentalis",
+            "value": 942
+        },
+        {
+            "source": "baltimore",
+            "target": "ulmus parvifolia",
+            "value": 1188
+        },
+        {
+            "source": "baltimore",
+            "target": "ginkgo biloba",
+            "value": 1623
+        },
+        {
+            "source": "baltimore",
+            "target": "quercus rubra",
+            "value": 2849
+        },
+        {
+            "source": "michigan",
+            "target": "grand rapids",
+            "value": 69702
+        },
+        {
+            "source": "grand rapids",
+            "target": "platanus acerifolia",
+            "value": 2
+        },
+        {
+            "source": "grand rapids",
+            "target": "lagerstroemia indica",
+            "value": 0
+        },
+        {
+            "source": "grand rapids",
+            "target": "acer platanoides",
+            "value": 20433
+        },
+        {
+            "source": "grand rapids",
+            "target": "gleditsia triacanthos",
+            "value": 5805
+        },
+        {
+            "source": "grand rapids",
+            "target": "pyrus calleryana",
+            "value": 1662
+        },
+        {
+            "source": "grand rapids",
+            "target": "acer rubrum",
+            "value": 4523
+        },
+        {
+            "source": "grand rapids",
+            "target": "fraxinus pennsylvanica",
+            "value": 2057
+        },
+        {
+            "source": "grand rapids",
+            "target": "quercus virginiana",
+            "value": 0
+        },
+        {
+            "source": "grand rapids",
+            "target": "liquidambar styraciflua",
+            "value": 517
+        },
+        {
+            "source": "grand rapids",
+            "target": "tilia cordata",
+            "value": 3033
+        },
+        {
+            "source": "grand rapids",
+            "target": "quercus palustris",
+            "value": 736
+        },
+        {
+            "source": "grand rapids",
+            "target": "washingtonia robusta",
+            "value": 0
+        },
+        {
+            "source": "grand rapids",
+            "target": "prunus",
+            "value": 247
+        },
+        {
+            "source": "grand rapids",
+            "target": "magnolia grandiflora",
+            "value": 0
+        },
+        {
+            "source": "grand rapids",
+            "target": "acer saccharinum",
+            "value": 2554
+        },
+        {
+            "source": "grand rapids",
+            "target": "zelkova serrata",
+            "value": 544
+        },
+        {
+            "source": "grand rapids",
+            "target": "celtis occidentalis",
+            "value": 645
+        },
+        {
+            "source": "grand rapids",
+            "target": "ulmus parvifolia",
+            "value": 0
+        },
+        {
+            "source": "grand rapids",
+            "target": "ginkgo biloba",
+            "value": 570
+        },
+        {
+            "source": "grand rapids",
+            "target": "quercus rubra",
+            "value": 632
+        },
+        {
+            "source": "missouri",
+            "target": "st louis",
+            "value": 83452
+        },
+        {
+            "source": "st louis",
+            "target": "platanus acerifolia",
+            "value": 2358
+        },
+        {
+            "source": "st louis",
+            "target": "lagerstroemia indica",
+            "value": 22
+        },
+        {
+            "source": "st louis",
+            "target": "acer platanoides",
+            "value": 1127
+        },
+        {
+            "source": "st louis",
+            "target": "gleditsia triacanthos",
+            "value": 3013
+        },
+        {
+            "source": "st louis",
+            "target": "pyrus calleryana",
+            "value": 7210
+        },
+        {
+            "source": "st louis",
+            "target": "acer rubrum",
+            "value": 8575
+        },
+        {
+            "source": "st louis",
+            "target": "fraxinus pennsylvanica",
+            "value": 7761
+        },
+        {
+            "source": "st louis",
+            "target": "quercus virginiana",
+            "value": 0
+        },
+        {
+            "source": "st louis",
+            "target": "liquidambar styraciflua",
+            "value": 2140
+        },
+        {
+            "source": "st louis",
+            "target": "tilia cordata",
+            "value": 3682
+        },
+        {
+            "source": "st louis",
+            "target": "quercus palustris",
+            "value": 6503
+        },
+        {
+            "source": "st louis",
+            "target": "washingtonia robusta",
+            "value": 0
+        },
+        {
+            "source": "st louis",
+            "target": "prunus",
+            "value": 2009
+        },
+        {
+            "source": "st louis",
+            "target": "magnolia grandiflora",
+            "value": 42
+        },
+        {
+            "source": "st louis",
+            "target": "acer saccharinum",
+            "value": 3115
+        },
+        {
+            "source": "st louis",
+            "target": "zelkova serrata",
+            "value": 1018
+        },
+        {
+            "source": "st louis",
+            "target": "celtis occidentalis",
+            "value": 687
+        },
+        {
+            "source": "st louis",
+            "target": "ulmus parvifolia",
+            "value": 92
+        },
+        {
+            "source": "st louis",
+            "target": "ginkgo biloba",
+            "value": 1507
+        },
+        {
+            "source": "st louis",
+            "target": "quercus rubra",
+            "value": 1033
+        },
+        {
+            "source": "new york",
+            "target": "buffalo",
+            "value": 74389
+        },
+        {
+            "source": "buffalo",
+            "target": "platanus acerifolia",
+            "value": 1897
+        },
+        {
+            "source": "buffalo",
+            "target": "lagerstroemia indica",
+            "value": 0
+        },
+        {
+            "source": "buffalo",
+            "target": "acer platanoides",
+            "value": 13265
+        },
+        {
+            "source": "buffalo",
+            "target": "gleditsia triacanthos",
+            "value": 2347
+        },
+        {
+            "source": "buffalo",
+            "target": "pyrus calleryana",
+            "value": 1443
+        },
+        {
+            "source": "buffalo",
+            "target": "acer rubrum",
+            "value": 2601
+        },
+        {
+            "source": "buffalo",
+            "target": "fraxinus pennsylvanica",
+            "value": 718
+        },
+        {
+            "source": "buffalo",
+            "target": "quercus virginiana",
+            "value": 0
+        },
+        {
+            "source": "buffalo",
+            "target": "liquidambar styraciflua",
+            "value": 214
+        },
+        {
+            "source": "buffalo",
+            "target": "tilia cordata",
+            "value": 9156
+        },
+        {
+            "source": "buffalo",
+            "target": "quercus palustris",
+            "value": 217
+        },
+        {
+            "source": "buffalo",
+            "target": "washingtonia robusta",
+            "value": 0
+        },
+        {
+            "source": "buffalo",
+            "target": "prunus",
+            "value": 549
+        },
+        {
+            "source": "buffalo",
+            "target": "magnolia grandiflora",
+            "value": 0
+        },
+        {
+            "source": "buffalo",
+            "target": "acer saccharinum",
+            "value": 4725
+        },
+        {
+            "source": "buffalo",
+            "target": "zelkova serrata",
+            "value": 722
+        },
+        {
+            "source": "buffalo",
+            "target": "celtis occidentalis",
+            "value": 830
+        },
+        {
+            "source": "buffalo",
+            "target": "ulmus parvifolia",
+            "value": 14
+        },
+        {
+            "source": "buffalo",
+            "target": "ginkgo biloba",
+            "value": 680
+        },
+        {
+            "source": "buffalo",
+            "target": "quercus rubra",
+            "value": 1212
+        },
+        {
+            "source": "new york",
+            "target": "new york",
+            "value": 652169
+        },
+        {
+            "source": "new york",
+            "target": "platanus acerifolia",
+            "value": 87014
+        },
+        {
+            "source": "new york",
+            "target": "lagerstroemia indica",
+            "value": 0
+        },
+        {
+            "source": "new york",
+            "target": "acer platanoides",
+            "value": 40112
+        },
+        {
+            "source": "new york",
+            "target": "gleditsia triacanthos",
+            "value": 64264
+        },
+        {
+            "source": "new york",
+            "target": "pyrus calleryana",
+            "value": 58931
+        },
+        {
+            "source": "new york",
+            "target": "acer rubrum",
+            "value": 17246
+        },
+        {
+            "source": "new york",
+            "target": "fraxinus pennsylvanica",
+            "value": 16251
+        },
+        {
+            "source": "new york",
+            "target": "quercus virginiana",
+            "value": 0
+        },
+        {
+            "source": "new york",
+            "target": "liquidambar styraciflua",
+            "value": 10657
+        },
+        {
+            "source": "new york",
+            "target": "tilia cordata",
+            "value": 29742
+        },
+        {
+            "source": "new york",
+            "target": "quercus palustris",
+            "value": 53185
+        },
+        {
+            "source": "new york",
+            "target": "washingtonia robusta",
+            "value": 0
+        },
+        {
+            "source": "new york",
+            "target": "prunus",
+            "value": 29279
+        },
+        {
+            "source": "new york",
+            "target": "magnolia grandiflora",
+            "value": 132
+        },
+        {
+            "source": "new york",
+            "target": "acer saccharinum",
+            "value": 12277
+        },
+        {
+            "source": "new york",
+            "target": "zelkova serrata",
+            "value": 29258
+        },
+        {
+            "source": "new york",
+            "target": "celtis occidentalis",
+            "value": 2382
+        },
+        {
+            "source": "new york",
+            "target": "ulmus parvifolia",
+            "value": 5345
+        },
+        {
+            "source": "new york",
+            "target": "ginkgo biloba",
+            "value": 21024
+        },
+        {
+            "source": "new york",
+            "target": "quercus rubra",
+            "value": 8400
+        },
+        {
+            "source": "ohio",
+            "target": "columbus",
+            "value": 135412
+        },
+        {
+            "source": "columbus",
+            "target": "platanus acerifolia",
+            "value": 3916
+        },
+        {
+            "source": "columbus",
+            "target": "lagerstroemia indica",
+            "value": 0
+        },
+        {
+            "source": "columbus",
+            "target": "acer platanoides",
+            "value": 4549
+        },
+        {
+            "source": "columbus",
+            "target": "gleditsia triacanthos",
+            "value": 7090
+        },
+        {
+            "source": "columbus",
+            "target": "pyrus calleryana",
+            "value": 9245
+        },
+        {
+            "source": "columbus",
+            "target": "acer rubrum",
+            "value": 8657
+        },
+        {
+            "source": "columbus",
+            "target": "fraxinus pennsylvanica",
+            "value": 9402
+        },
+        {
+            "source": "columbus",
+            "target": "quercus virginiana",
+            "value": 0
+        },
+        {
+            "source": "columbus",
+            "target": "liquidambar styraciflua",
+            "value": 1679
+        },
+        {
+            "source": "columbus",
+            "target": "tilia cordata",
+            "value": 4102
+        },
+        {
+            "source": "columbus",
+            "target": "quercus palustris",
+            "value": 1236
+        },
+        {
+            "source": "columbus",
+            "target": "washingtonia robusta",
+            "value": 0
+        },
+        {
+            "source": "columbus",
+            "target": "prunus",
+            "value": 2962
+        },
+        {
+            "source": "columbus",
+            "target": "magnolia grandiflora",
+            "value": 7
+        },
+        {
+            "source": "columbus",
+            "target": "acer saccharinum",
+            "value": 3156
+        },
+        {
+            "source": "columbus",
+            "target": "zelkova serrata",
+            "value": 962
+        },
+        {
+            "source": "columbus",
+            "target": "celtis occidentalis",
+            "value": 2041
+        },
+        {
+            "source": "columbus",
+            "target": "ulmus parvifolia",
+            "value": 1187
+        },
+        {
+            "source": "columbus",
+            "target": "ginkgo biloba",
+            "value": 856
+        },
+        {
+            "source": "columbus",
+            "target": "quercus rubra",
+            "value": 2770
+        },
+        {
+            "source": "oregon",
+            "target": "portland",
+            "value": 216751
+        },
+        {
+            "source": "portland",
+            "target": "platanus acerifolia",
+            "value": 0
+        },
+        {
+            "source": "portland",
+            "target": "lagerstroemia indica",
+            "value": 852
+        },
+        {
+            "source": "portland",
+            "target": "acer platanoides",
+            "value": 19209
+        },
+        {
+            "source": "portland",
+            "target": "gleditsia triacanthos",
+            "value": 1412
+        },
+        {
+            "source": "portland",
+            "target": "pyrus calleryana",
+            "value": 0
+        },
+        {
+            "source": "portland",
+            "target": "acer rubrum",
+            "value": 15475
+        },
+        {
+            "source": "portland",
+            "target": "fraxinus pennsylvanica",
+            "value": 0
+        },
+        {
+            "source": "portland",
+            "target": "quercus virginiana",
+            "value": 0
+        },
+        {
+            "source": "portland",
+            "target": "liquidambar styraciflua",
+            "value": 0
+        },
+        {
+            "source": "portland",
+            "target": "tilia cordata",
+            "value": 0
+        },
+        {
+            "source": "portland",
+            "target": "quercus palustris",
+            "value": 0
+        },
+        {
+            "source": "portland",
+            "target": "washingtonia robusta",
+            "value": 0
+        },
+        {
+            "source": "portland",
+            "target": "prunus",
+            "value": 25635
+        },
+        {
+            "source": "portland",
+            "target": "magnolia grandiflora",
+            "value": 0
+        },
+        {
+            "source": "portland",
+            "target": "acer saccharinum",
+            "value": 904
+        },
+        {
+            "source": "portland",
+            "target": "zelkova serrata",
+            "value": 1911
+        },
+        {
+            "source": "portland",
+            "target": "celtis occidentalis",
+            "value": 334
+        },
+        {
+            "source": "portland",
+            "target": "ulmus parvifolia",
+            "value": 0
+        },
+        {
+            "source": "portland",
+            "target": "ginkgo biloba",
+            "value": 2023
+        },
+        {
+            "source": "portland",
+            "target": "quercus rubra",
+            "value": 0
+        },
+        {
+            "source": "texas",
+            "target": "houston",
+            "value": 211786
+        },
+        {
+            "source": "houston",
+            "target": "platanus acerifolia",
+            "value": 0
+        },
+        {
+            "source": "houston",
+            "target": "lagerstroemia indica",
+            "value": 44320
+        },
+        {
+            "source": "houston",
+            "target": "acer platanoides",
+            "value": 0
+        },
+        {
+            "source": "houston",
+            "target": "gleditsia triacanthos",
+            "value": 69
+        },
+        {
+            "source": "houston",
+            "target": "pyrus calleryana",
+            "value": 2622
+        },
+        {
+            "source": "houston",
+            "target": "acer rubrum",
+            "value": 963
+        },
+        {
+            "source": "houston",
+            "target": "fraxinus pennsylvanica",
+            "value": 1154
+        },
+        {
+            "source": "houston",
+            "target": "quercus virginiana",
+            "value": 44059
+        },
+        {
+            "source": "houston",
+            "target": "liquidambar styraciflua",
+            "value": 1352
+        },
+        {
+            "source": "houston",
+            "target": "tilia cordata",
+            "value": 0
+        },
+        {
+            "source": "houston",
+            "target": "quercus palustris",
+            "value": 0
+        },
+        {
+            "source": "houston",
+            "target": "washingtonia robusta",
+            "value": 5466
+        },
+        {
+            "source": "houston",
+            "target": "prunus",
+            "value": 5
+        },
+        {
+            "source": "houston",
+            "target": "magnolia grandiflora",
+            "value": 4297
+        },
+        {
+            "source": "houston",
+            "target": "acer saccharinum",
+            "value": 282
+        },
+        {
+            "source": "houston",
+            "target": "zelkova serrata",
+            "value": 0
+        },
+        {
+            "source": "houston",
+            "target": "celtis occidentalis",
+            "value": 13013
+        },
+        {
+            "source": "houston",
+            "target": "ulmus parvifolia",
+            "value": 2542
+        },
+        {
+            "source": "houston",
+            "target": "ginkgo biloba",
+            "value": 19
+        },
+        {
+            "source": "houston",
+            "target": "quercus rubra",
+            "value": 1460
+        },
+        {
+            "source": "washington",
+            "target": "seattle",
+            "value": 164903
+        },
+        {
+            "source": "seattle",
+            "target": "platanus acerifolia",
+            "value": 1769
+        },
+        {
+            "source": "seattle",
+            "target": "lagerstroemia indica",
+            "value": 406
+        },
+        {
+            "source": "seattle",
+            "target": "acer platanoides",
+            "value": 6304
+        },
+        {
+            "source": "seattle",
+            "target": "gleditsia triacanthos",
+            "value": 1404
+        },
+        {
+            "source": "seattle",
+            "target": "pyrus calleryana",
+            "value": 4467
+        },
+        {
+            "source": "seattle",
+            "target": "acer rubrum",
+            "value": 7543
+        },
+        {
+            "source": "seattle",
+            "target": "fraxinus pennsylvanica",
+            "value": 1835
+        },
+        {
+            "source": "seattle",
+            "target": "quercus virginiana",
+            "value": 11
+        },
+        {
+            "source": "seattle",
+            "target": "liquidambar styraciflua",
+            "value": 3377
+        },
+        {
+            "source": "seattle",
+            "target": "tilia cordata",
+            "value": 2718
+        },
+        {
+            "source": "seattle",
+            "target": "quercus palustris",
+            "value": 977
+        },
+        {
+            "source": "seattle",
+            "target": "washingtonia robusta",
+            "value": 0
+        },
+        {
+            "source": "seattle",
+            "target": "prunus",
+            "value": 3937
+        },
+        {
+            "source": "seattle",
+            "target": "magnolia grandiflora",
+            "value": 1225
+        },
+        {
+            "source": "seattle",
+            "target": "acer saccharinum",
+            "value": 265
+        },
+        {
+            "source": "seattle",
+            "target": "zelkova serrata",
+            "value": 1683
+        },
+        {
+            "source": "seattle",
+            "target": "celtis occidentalis",
+            "value": 141
+        },
+        {
+            "source": "seattle",
+            "target": "ulmus parvifolia",
+            "value": 411
+        },
+        {
+            "source": "seattle",
+            "target": "ginkgo biloba",
+            "value": 1251
+        },
+        {
+            "source": "seattle",
+            "target": "quercus rubra",
+            "value": 2339
+        },
+        {
+            "source": "wisconsin",
+            "target": "madison",
+            "value": 83758
+        },
+        {
+            "source": "madison",
+            "target": "platanus acerifolia",
+            "value": 119
+        },
+        {
+            "source": "madison",
+            "target": "lagerstroemia indica",
+            "value": 0
+        },
+        {
+            "source": "madison",
+            "target": "acer platanoides",
+            "value": 20918
+        },
+        {
+            "source": "madison",
+            "target": "gleditsia triacanthos",
+            "value": 3390
+        },
+        {
+            "source": "madison",
+            "target": "pyrus calleryana",
+            "value": 0
+        },
+        {
+            "source": "madison",
+            "target": "acer rubrum",
+            "value": 261
+        },
+        {
+            "source": "madison",
+            "target": "fraxinus pennsylvanica",
+            "value": 17377
+        },
+        {
+            "source": "madison",
+            "target": "quercus virginiana",
+            "value": 0
+        },
+        {
+            "source": "madison",
+            "target": "liquidambar styraciflua",
+            "value": 1
+        },
+        {
+            "source": "madison",
+            "target": "tilia cordata",
+            "value": 3894
+        },
+        {
+            "source": "madison",
+            "target": "quercus palustris",
+            "value": 97
+        },
+        {
+            "source": "madison",
+            "target": "washingtonia robusta",
+            "value": 0
+        },
+        {
+            "source": "madison",
+            "target": "prunus",
+            "value": 127
+        },
+        {
+            "source": "madison",
+            "target": "magnolia grandiflora",
+            "value": 0
+        },
+        {
+            "source": "madison",
+            "target": "acer saccharinum",
+            "value": 1677
+        },
+        {
+            "source": "madison",
+            "target": "zelkova serrata",
+            "value": 0
+        },
+        {
+            "source": "madison",
+            "target": "celtis occidentalis",
+            "value": 2667
+        },
+        {
+            "source": "madison",
+            "target": "ulmus parvifolia",
+            "value": 1
+        },
+        {
+            "source": "madison",
+            "target": "ginkgo biloba",
+            "value": 547
+        },
+        {
+            "source": "madison",
+            "target": "quercus rubra",
+            "value": 349
+        }
+    ]
+}
