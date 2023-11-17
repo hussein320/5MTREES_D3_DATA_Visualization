@@ -43,7 +43,7 @@
             "name": "wisconsin"
         },
         {
-            "name": "new york"
+            "name": "new york city"
         },
         {
             "name": "los angeles"
@@ -1530,7 +1530,7 @@
             "value": "1033"
         },
         {
-            "source": "new york",
+            "source": "new york city",
             "target": "buffalo",
             "value": "74389"
         },
@@ -1636,106 +1636,106 @@
         },
         {
             "source": "new york",
-            "target": "new york",
+            "target": "new york city",
             "value": "652169"
         },
         {
-            "source": "new york",
+            "source": "new york city",
             "target": "platanus acerifolia",
             "value": "87014"
         },
         {
-            "source": "new york",
+            "source": "new york city",
             "target": "lagerstroemia indica",
             "value": "0"
         },
         {
-            "source": "new york",
+            "source": "new york city",
             "target": "acer platanoides",
             "value": "40112"
         },
         {
-            "source": "new york",
+            "source": "new york city",
             "target": "gleditsia triacanthos",
             "value": "64264"
         },
         {
-            "source": "new york",
+            "source": "new york city",
             "target": "pyrus calleryana",
             "value": "58931"
         },
         {
-            "source": "new york",
+            "source": "new york city",
             "target": "acer rubrum",
             "value": "17246"
         },
         {
-            "source": "new york",
+            "source": "new york city",
             "target": "fraxinus pennsylvanica",
             "value": "16251"
         },
         {
-            "source": "new york",
+            "source": "new york city",
             "target": "quercus virginiana",
             "value": "0"
         },
         {
-            "source": "new york",
+            "source": "new york city",
             "target": "liquidambar styraciflua",
             "value": "10657"
         },
         {
-            "source": "new york",
+            "source": "new york city",
             "target": "tilia cordata",
             "value": "29742"
         },
         {
-            "source": "new york",
+            "source": "new york city",
             "target": "quercus palustris",
             "value": "53185"
         },
         {
-            "source": "new york",
+            "source": "new york city",
             "target": "washingtonia robusta",
             "value": "0"
         },
         {
-            "source": "new york",
+            "source": "new york city",
             "target": "prunus",
             "value": "29279"
         },
         {
-            "source": "new york",
+            "source": "new york city",
             "target": "magnolia grandiflora",
             "value": "132"
         },
         {
-            "source": "new york",
+            "source": "new york city",
             "target": "acer saccharinum",
             "value": "12277"
         },
         {
-            "source": "new york",
+            "source": "new york city",
             "target": "zelkova serrata",
             "value": "29258"
         },
         {
-            "source": "new york",
+            "source": "new york city",
             "target": "celtis occidentalis",
             "value": "2382"
         },
         {
-            "source": "new york",
+            "source": "new york city",
             "target": "ulmus parvifolia",
             "value": "5345"
         },
         {
-            "source": "new york",
+            "source": "new york city",
             "target": "ginkgo biloba",
             "value": "21024"
         },
         {
-            "source": "new york",
+            "source": "new york city",
             "target": "quercus rubra",
             "value": "8400"
         },
