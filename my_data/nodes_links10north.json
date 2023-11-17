@@ -1,0 +1,553 @@
+{
+    "nodes": [
+        {
+            "name": "new york"
+        },
+        {
+            "name": "oregon"
+        },
+        {
+            "name": "district of columbia"
+        },
+        {
+            "name": "washington"
+        },
+        {
+            "name": "ohio"
+        },
+        {
+            "name": "maryland"
+        },
+        {
+            "name": "wisconsin"
+        },
+        {
+            "name": "missouri"
+        },
+        {
+            "name": "michigan"
+        },
+        {
+            "name": "buffalo"
+        },
+        {
+            "name": "platanus acerifolia"
+        },
+        {
+            "name": "lagerstroemia indica"
+        },
+        {
+            "name": "acer platanoides"
+        },
+        {
+            "name": "gleditsia triacanthos"
+        },
+        {
+            "name": "pyrus calleryana"
+        },
+        {
+            "name": "acer rubrum"
+        },
+        {
+            "name": "fraxinus pennsylvanica"
+        },
+        {
+            "name": "quercus virginiana"
+        },
+        {
+            "name": "liquidambar styraciflua"
+        },
+        {
+            "name": "tilia cordata"
+        },
+        {
+            "name": "new york city"
+        },
+        {
+            "name": "portland"
+        },
+        {
+            "name": "washington dc"
+        },
+        {
+            "name": "seattle"
+        },
+        {
+            "name": "columbus"
+        },
+        {
+            "name": "baltimore"
+        },
+        {
+            "name": "madison"
+        },
+        {
+            "name": "st louis"
+        },
+        {
+            "name": "grand rapids"
+        }
+    ],
+    "links": [
+        {
+            "source": "new york",
+            "target": "buffalo",
+            "value": "31641"
+        },
+        {
+            "source": "buffalo",
+            "target": "platanus acerifolia",
+            "value": "1897"
+        },
+        {
+            "source": "buffalo",
+            "target": "acer platanoides",
+            "value": "13265"
+        },
+        {
+            "source": "buffalo",
+            "target": "gleditsia triacanthos",
+            "value": "2347"
+        },
+        {
+            "source": "buffalo",
+            "target": "pyrus calleryana",
+            "value": "1443"
+        },
+        {
+            "source": "buffalo",
+            "target": "acer rubrum",
+            "value": "2601"
+        },
+        {
+            "source": "buffalo",
+            "target": "fraxinus pennsylvanica",
+            "value": "718"
+        },
+        {
+            "source": "buffalo",
+            "target": "liquidambar styraciflua",
+            "value": "214"
+        },
+        {
+            "source": "buffalo",
+            "target": "tilia cordata",
+            "value": "9156"
+        },
+        {
+            "source": "new york",
+            "target": "new york city",
+            "value": "324217"
+        },
+        {
+            "source": "new york city",
+            "target": "platanus acerifolia",
+            "value": "87014"
+        },
+        {
+            "source": "new york city",
+            "target": "acer platanoides",
+            "value": "40112"
+        },
+        {
+            "source": "new york city",
+            "target": "gleditsia triacanthos",
+            "value": "64264"
+        },
+        {
+            "source": "new york city",
+            "target": "pyrus calleryana",
+            "value": "58931"
+        },
+        {
+            "source": "new york city",
+            "target": "acer rubrum",
+            "value": "17246"
+        },
+        {
+            "source": "new york city",
+            "target": "fraxinus pennsylvanica",
+            "value": "16251"
+        },
+        {
+            "source": "new york city",
+            "target": "liquidambar styraciflua",
+            "value": "10657"
+        },
+        {
+            "source": "new york city",
+            "target": "tilia cordata",
+            "value": "29742"
+        },
+        {
+            "source": "oregon",
+            "target": "portland",
+            "value": "36948"
+        },
+        {
+            "source": "portland",
+            "target": "lagerstroemia indica",
+            "value": "852"
+        },
+        {
+            "source": "portland",
+            "target": "acer platanoides",
+            "value": "19209"
+        },
+        {
+            "source": "portland",
+            "target": "gleditsia triacanthos",
+            "value": "1412"
+        },
+        {
+            "source": "portland",
+            "target": "acer rubrum",
+            "value": "15475"
+        },
+        {
+            "source": "district of columbia",
+            "target": "washington dc",
+            "value": "34641"
+        },
+        {
+            "source": "washington dc",
+            "target": "platanus acerifolia",
+            "value": "5745"
+        },
+        {
+            "source": "washington dc",
+            "target": "lagerstroemia indica",
+            "value": "4324"
+        },
+        {
+            "source": "washington dc",
+            "target": "acer platanoides",
+            "value": "3403"
+        },
+        {
+            "source": "washington dc",
+            "target": "gleditsia triacanthos",
+            "value": "1911"
+        },
+        {
+            "source": "washington dc",
+            "target": "pyrus calleryana",
+            "value": "952"
+        },
+        {
+            "source": "washington dc",
+            "target": "acer rubrum",
+            "value": "12709"
+        },
+        {
+            "source": "washington dc",
+            "target": "fraxinus pennsylvanica",
+            "value": "55"
+        },
+        {
+            "source": "washington dc",
+            "target": "quercus virginiana",
+            "value": "2"
+        },
+        {
+            "source": "washington dc",
+            "target": "liquidambar styraciflua",
+            "value": "2835"
+        },
+        {
+            "source": "washington dc",
+            "target": "tilia cordata",
+            "value": "2705"
+        },
+        {
+            "source": "washington",
+            "target": "seattle",
+            "value": "29834"
+        },
+        {
+            "source": "seattle",
+            "target": "platanus acerifolia",
+            "value": "1769"
+        },
+        {
+            "source": "seattle",
+            "target": "lagerstroemia indica",
+            "value": "406"
+        },
+        {
+            "source": "seattle",
+            "target": "acer platanoides",
+            "value": "6304"
+        },
+        {
+            "source": "seattle",
+            "target": "gleditsia triacanthos",
+            "value": "1404"
+        },
+        {
+            "source": "seattle",
+            "target": "pyrus calleryana",
+            "value": "4467"
+        },
+        {
+            "source": "seattle",
+            "target": "acer rubrum",
+            "value": "7543"
+        },
+        {
+            "source": "seattle",
+            "target": "fraxinus pennsylvanica",
+            "value": "1835"
+        },
+        {
+            "source": "seattle",
+            "target": "quercus virginiana",
+            "value": "11"
+        },
+        {
+            "source": "seattle",
+            "target": "liquidambar styraciflua",
+            "value": "3377"
+        },
+        {
+            "source": "seattle",
+            "target": "tilia cordata",
+            "value": "2718"
+        },
+        {
+            "source": "ohio",
+            "target": "columbus",
+            "value": "48640"
+        },
+        {
+            "source": "columbus",
+            "target": "platanus acerifolia",
+            "value": "3916"
+        },
+        {
+            "source": "columbus",
+            "target": "acer platanoides",
+            "value": "4549"
+        },
+        {
+            "source": "columbus",
+            "target": "gleditsia triacanthos",
+            "value": "7090"
+        },
+        {
+            "source": "columbus",
+            "target": "pyrus calleryana",
+            "value": "9245"
+        },
+        {
+            "source": "columbus",
+            "target": "acer rubrum",
+            "value": "8657"
+        },
+        {
+            "source": "columbus",
+            "target": "fraxinus pennsylvanica",
+            "value": "9402"
+        },
+        {
+            "source": "columbus",
+            "target": "liquidambar styraciflua",
+            "value": "1679"
+        },
+        {
+            "source": "columbus",
+            "target": "tilia cordata",
+            "value": "4102"
+        },
+        {
+            "source": "maryland",
+            "target": "baltimore",
+            "value": "41770"
+        },
+        {
+            "source": "baltimore",
+            "target": "platanus acerifolia",
+            "value": "6031"
+        },
+        {
+            "source": "baltimore",
+            "target": "lagerstroemia indica",
+            "value": "1584"
+        },
+        {
+            "source": "baltimore",
+            "target": "acer platanoides",
+            "value": "3716"
+        },
+        {
+            "source": "baltimore",
+            "target": "gleditsia triacanthos",
+            "value": "3276"
+        },
+        {
+            "source": "baltimore",
+            "target": "pyrus calleryana",
+            "value": "4747"
+        },
+        {
+            "source": "baltimore",
+            "target": "acer rubrum",
+            "value": "12895"
+        },
+        {
+            "source": "baltimore",
+            "target": "fraxinus pennsylvanica",
+            "value": "1111"
+        },
+        {
+            "source": "baltimore",
+            "target": "quercus virginiana",
+            "value": "12"
+        },
+        {
+            "source": "baltimore",
+            "target": "liquidambar styraciflua",
+            "value": "2466"
+        },
+        {
+            "source": "baltimore",
+            "target": "tilia cordata",
+            "value": "5932"
+        },
+        {
+            "source": "wisconsin",
+            "target": "madison",
+            "value": "45960"
+        },
+        {
+            "source": "madison",
+            "target": "platanus acerifolia",
+            "value": "119"
+        },
+        {
+            "source": "madison",
+            "target": "acer platanoides",
+            "value": "20918"
+        },
+        {
+            "source": "madison",
+            "target": "gleditsia triacanthos",
+            "value": "3390"
+        },
+        {
+            "source": "madison",
+            "target": "acer rubrum",
+            "value": "261"
+        },
+        {
+            "source": "madison",
+            "target": "fraxinus pennsylvanica",
+            "value": "17377"
+        },
+        {
+            "source": "madison",
+            "target": "liquidambar styraciflua",
+            "value": "1"
+        },
+        {
+            "source": "madison",
+            "target": "tilia cordata",
+            "value": "3894"
+        },
+        {
+            "source": "missouri",
+            "target": "st louis",
+            "value": "35888"
+        },
+        {
+            "source": "st louis",
+            "target": "platanus acerifolia",
+            "value": "2358"
+        },
+        {
+            "source": "st louis",
+            "target": "lagerstroemia indica",
+            "value": "22"
+        },
+        {
+            "source": "st louis",
+            "target": "acer platanoides",
+            "value": "1127"
+        },
+        {
+            "source": "st louis",
+            "target": "gleditsia triacanthos",
+            "value": "3013"
+        },
+        {
+            "source": "st louis",
+            "target": "pyrus calleryana",
+            "value": "7210"
+        },
+        {
+            "source": "st louis",
+            "target": "acer rubrum",
+            "value": "8575"
+        },
+        {
+            "source": "st louis",
+            "target": "fraxinus pennsylvanica",
+            "value": "7761"
+        },
+        {
+            "source": "st louis",
+            "target": "liquidambar styraciflua",
+            "value": "2140"
+        },
+        {
+            "source": "st louis",
+            "target": "tilia cordata",
+            "value": "3682"
+        },
+        {
+            "source": "michigan",
+            "target": "grand rapids",
+            "value": "38032"
+        },
+        {
+            "source": "grand rapids",
+            "target": "platanus acerifolia",
+            "value": "2"
+        },
+        {
+            "source": "grand rapids",
+            "target": "acer platanoides",
+            "value": "20433"
+        },
+        {
+            "source": "grand rapids",
+            "target": "gleditsia triacanthos",
+            "value": "5805"
+        },
+        {
+            "source": "grand rapids",
+            "target": "pyrus calleryana",
+            "value": "1662"
+        },
+        {
+            "source": "grand rapids",
+            "target": "acer rubrum",
+            "value": "4523"
+        },
+        {
+            "source": "grand rapids",
+            "target": "fraxinus pennsylvanica",
+            "value": "2057"
+        },
+        {
+            "source": "grand rapids",
+            "target": "liquidambar styraciflua",
+            "value": "517"
+        },
+        {
+            "source": "grand rapids",
+            "target": "tilia cordata",
+            "value": "3033"
+        }
+    ]
+}
