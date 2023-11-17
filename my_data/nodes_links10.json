@@ -25,7 +25,7 @@
             "name": "washington"
         },
         {
-            "name": "new york"
+            "name": "new york city"
         },
         {
             "name": "los angeles"
@@ -123,11 +123,6 @@
         },
         {
             "source": "los angeles",
-            "target": "fraxinus pennsylvanica",
-            "value": "0"
-        },
-        {
-            "source": "los angeles",
             "target": "quercus virginiana",
             "value": "245"
         },
@@ -135,11 +130,6 @@
             "source": "los angeles",
             "target": "liquidambar styraciflua",
             "value": "30061"
-        },
-        {
-            "source": "los angeles",
-            "target": "tilia cordata",
-            "value": "0"
         },
         {
             "source": "california",
@@ -158,43 +148,13 @@
         },
         {
             "source": "san diego",
-            "target": "acer platanoides",
-            "value": "0"
-        },
-        {
-            "source": "san diego",
-            "target": "gleditsia triacanthos",
-            "value": "0"
-        },
-        {
-            "source": "san diego",
             "target": "pyrus calleryana",
             "value": "1986"
         },
         {
             "source": "san diego",
-            "target": "acer rubrum",
-            "value": "0"
-        },
-        {
-            "source": "san diego",
-            "target": "fraxinus pennsylvanica",
-            "value": "0"
-        },
-        {
-            "source": "san diego",
-            "target": "quercus virginiana",
-            "value": "0"
-        },
-        {
-            "source": "san diego",
             "target": "liquidambar styraciflua",
             "value": "10323"
-        },
-        {
-            "source": "san diego",
-            "target": "tilia cordata",
-            "value": "0"
         },
         {
             "source": "california",
@@ -233,11 +193,6 @@
         },
         {
             "source": "san francisco",
-            "target": "fraxinus pennsylvanica",
-            "value": "0"
-        },
-        {
-            "source": "san francisco",
             "target": "quercus virginiana",
             "value": "58"
         },
@@ -263,11 +218,6 @@
         },
         {
             "source": "denver",
-            "target": "lagerstroemia indica",
-            "value": "0"
-        },
-        {
-            "source": "denver",
             "target": "acer platanoides",
             "value": "7945"
         },
@@ -290,11 +240,6 @@
             "source": "denver",
             "target": "fraxinus pennsylvanica",
             "value": "25736"
-        },
-        {
-            "source": "denver",
-            "target": "quercus virginiana",
-            "value": "0"
         },
         {
             "source": "denver",
@@ -363,56 +308,46 @@
         },
         {
             "source": "new york",
-            "target": "new york",
+            "target": "new york city",
             "value": "652169"
         },
         {
-            "source": "new york",
+            "source": "new york city",
             "target": "platanus acerifolia",
             "value": "87014"
         },
         {
-            "source": "new york",
-            "target": "lagerstroemia indica",
-            "value": "0"
-        },
-        {
-            "source": "new york",
+            "source": "new york city",
             "target": "acer platanoides",
             "value": "40112"
         },
         {
-            "source": "new york",
+            "source": "new york city",
             "target": "gleditsia triacanthos",
             "value": "64264"
         },
         {
-            "source": "new york",
+            "source": "new york city",
             "target": "pyrus calleryana",
             "value": "58931"
         },
         {
-            "source": "new york",
+            "source": "new york city",
             "target": "acer rubrum",
             "value": "17246"
         },
         {
-            "source": "new york",
+            "source": "new york city",
             "target": "fraxinus pennsylvanica",
             "value": "16251"
         },
         {
-            "source": "new york",
-            "target": "quercus virginiana",
-            "value": "0"
-        },
-        {
-            "source": "new york",
+            "source": "new york city",
             "target": "liquidambar styraciflua",
             "value": "10657"
         },
         {
-            "source": "new york",
+            "source": "new york city",
             "target": "tilia cordata",
             "value": "29742"
         },
@@ -425,11 +360,6 @@
             "source": "columbus",
             "target": "platanus acerifolia",
             "value": "3916"
-        },
-        {
-            "source": "columbus",
-            "target": "lagerstroemia indica",
-            "value": "0"
         },
         {
             "source": "columbus",
@@ -458,11 +388,6 @@
         },
         {
             "source": "columbus",
-            "target": "quercus virginiana",
-            "value": "0"
-        },
-        {
-            "source": "columbus",
             "target": "liquidambar styraciflua",
             "value": "1679"
         },
@@ -475,11 +400,6 @@
             "source": "oregon",
             "target": "portland",
             "value": "216751"
-        },
-        {
-            "source": "portland",
-            "target": "platanus acerifolia",
-            "value": "0"
         },
         {
             "source": "portland",
@@ -498,33 +418,8 @@
         },
         {
             "source": "portland",
-            "target": "pyrus calleryana",
-            "value": "0"
-        },
-        {
-            "source": "portland",
             "target": "acer rubrum",
             "value": "15475"
-        },
-        {
-            "source": "portland",
-            "target": "fraxinus pennsylvanica",
-            "value": "0"
-        },
-        {
-            "source": "portland",
-            "target": "quercus virginiana",
-            "value": "0"
-        },
-        {
-            "source": "portland",
-            "target": "liquidambar styraciflua",
-            "value": "0"
-        },
-        {
-            "source": "portland",
-            "target": "tilia cordata",
-            "value": "0"
         },
         {
             "source": "texas",
@@ -533,23 +428,8 @@
         },
         {
             "source": "houston",
-            "target": "platanus acerifolia",
-            "value": "0"
-        },
-        {
-            "source": "houston",
             "target": "lagerstroemia indica",
             "value": "44320"
-        },
-        {
-            "source": "houston",
-            "target": "acer platanoides",
-            "value": "0"
-        },
-        {
-            "source": "houston",
-            "target": "gleditsia triacanthos",
-            "value": "69"
         },
         {
             "source": "houston",
@@ -575,11 +455,6 @@
             "source": "houston",
             "target": "liquidambar styraciflua",
             "value": "1352"
-        },
-        {
-            "source": "houston",
-            "target": "tilia cordata",
-            "value": "0"
         },
         {
             "source": "washington",
