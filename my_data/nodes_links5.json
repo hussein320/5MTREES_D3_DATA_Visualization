@@ -39,5 +39,5 @@
         {"source": "oregon","target": "portland","value": "216751"},
         {"source": "portland","target": "lagerstroemia indica","value": "852"},
         {"source": "portland","target": "acer platanoides","value": "19209"},
-        {"source": "portland","target": "gleditsia triacanthos","value": "1412"},
+        {"source": "portland","target": "gleditsia triacanthos","value": "1412"}
         ] }
