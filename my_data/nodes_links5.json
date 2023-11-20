@@ -1,198 +1,43 @@
 {
     "nodes": [
-        {
-            "name": "california"
-        },
-        {
-            "name": "colorado"
-        },
-        {
-            "name": "new york"
-        },
-        {
-            "name": "oregon"
-        },
-        {
-            "name": "new york"
-        },
-        {
-            "name": "los angeles"
-        },
-        {
-            "name": "denver"
-        },
-        {
-            "name": "portland"
-        },
-        {
-            "name": "san diego"
-        },
-        {
-            "name": "platanus acerifolia"
-        },
-        {
-            "name": "lagerstroemia indica"
-        },
-        {
-            "name": "acer platanoides"
-        },
-        {
-            "name": "gleditsia triacanthos"
-        },
-        {
-            "name": "pyrus calleryana"
-        }
+        {"name": "california"},
+        {"name": "colorado"},
+        {"name": "new york"},
+        {"name": "oregon"},
+        {"name": "new york"},
+        {"name": "los angeles"},
+        {"name": "denver"},
+        {"name": "portland"},
+        {"name": "san diego"},
+        {"name": "platanus acerifolia"},
+        {"name": "lagerstroemia indica"},
+        {"name": "acer platanoides"},
+        {"name": "gleditsia triacanthos"},
+        {"name": "pyrus calleryana"}
     ],
     "links": [
-        {
-            "source": "california",
-            "target": "los angeles",
-            "value": "573610"
-        },
-        {
-            "source": "los angeles",
-            "target": "platanus acerifolia",
-            "value": "17477"
-        },
-        {
-            "source": "los angeles",
-            "target": "lagerstroemia indica",
-            "value": "34729"
-        },
-        {
-            "source": "los angeles",
-            "target": "acer platanoides",
-            "value": "6"
-        },
-        {
-            "source": "los angeles",
-            "target": "gleditsia triacanthos",
-            "value": "456"
-        },
-        {
-            "source": "los angeles",
-            "target": "pyrus calleryana",
-            "value": "7500"
-        },
-        {
-            "source": "california",
-            "target": "san diego",
-            "value": "212220"
-        },
-        {
-            "source": "san diego",
-            "target": "platanus acerifolia",
-            "value": "1907"
-        },
-        {
-            "source": "san diego",
-            "target": "lagerstroemia indica",
-            "value": "2207"
-        },
-        {
-            "source": "san diego",
-            "target": "acer platanoides",
-            "value": "0"
-        },
-        {
-            "source": "san diego",
-            "target": "gleditsia triacanthos",
-            "value": "0"
-        },
-        {
-            "source": "san diego",
-            "target": "pyrus calleryana",
-            "value": "1986"
-        },
-        {
-            "source": "colorado",
-            "target": "denver",
-            "value": "283281"
-        },
-        {
-            "source": "denver",
-            "target": "platanus acerifolia",
-            "value": "1814"
-        },
-        {
-            "source": "denver",
-            "target": "lagerstroemia indica",
-            "value": "0"
-        },
-        {
-            "source": "denver",
-            "target": "acer platanoides",
-            "value": "7945"
-        },
-        {
-            "source": "denver",
-            "target": "gleditsia triacanthos",
-            "value": "23565"
-        },
-        {
-            "source": "denver",
-            "target": "pyrus calleryana",
-            "value": "7133"
-        },
-        {
-            "source": "new york",
-            "target": "new york",
-            "value": "652169"
-        },
-        {
-            "source": "new york",
-            "target": "platanus acerifolia",
-            "value": "87014"
-        },
-        {
-            "source": "new york",
-            "target": "lagerstroemia indica",
-            "value": "0"
-        },
-        {
-            "source": "new york",
-            "target": "acer platanoides",
-            "value": "40112"
-        },
-        {
-            "source": "new york",
-            "target": "gleditsia triacanthos",
-            "value": "64264"
-        },
-        {
-            "source": "new york",
-            "target": "pyrus calleryana",
-            "value": "58931"
-        },
-        {
-            "source": "oregon",
-            "target": "portland",
-            "value": "216751"
-        },
-        {
-            "source": "portland",
-            "target": "platanus acerifolia",
-            "value": "0"
-        },
-        {
-            "source": "portland",
-            "target": "lagerstroemia indica",
-            "value": "852"
-        },
-        {
-            "source": "portland",
-            "target": "acer platanoides",
-            "value": "19209"
-        },
-        {
-            "source": "portland",
-            "target": "gleditsia triacanthos",
-            "value": "1412"
-        },
-        {
-            "source": "portland",
-            "target": "pyrus calleryana",
-            "value": "0"
-        }
-    ]
-}
+        {"source": "california","target": "los angeles","value": "573610"},
+        {"source": "los angeles","target": "platanus acerifolia","value": "17477"},
+        {"source": "los angeles","target": "lagerstroemia indica","value": "34729"},
+        {"source": "los angeles","target": "acer platanoides","value": "6"},
+        {"source": "los angeles","target": "gleditsia triacanthos","value": "456"},
+        {"source": "los angeles","target": "pyrus calleryana","value": "7500"},
+        {"source": "california","target": "san diego","value": "212220"},
+        {"source": "san diego","target": "platanus acerifolia","value": "1907"},
+        {"source": "san diego","target": "lagerstroemia indica","value": "2207"},
+        {"source": "san diego","target": "pyrus calleryana","value": "1986"},
+        {"source": "colorado","target": "denver","value": "283281"},
+        {"source": "denver","target": "platanus acerifolia","value": "1814"},
+        {"source": "denver","target": "acer platanoides","value": "7945"},
+        {"source": "denver","target": "gleditsia triacanthos","value": "23565"},
+        {"source": "denver","target": "pyrus calleryana","value": "7133"},
+        {"source": "new york","target": "new york city","value": "652169"},
+        {"source": "new york city","target": "platanus acerifolia","value": "87014"},
+        {"source": "new york city","target": "acer platanoides","value": "40112"},
+        {"source": "new york city","target": "gleditsia triacanthos","value": "64264"},
+        {"source": "new york city","target": "pyrus calleryana","value": "58931"},
+        {"source": "oregon","target": "portland","value": "216751"},
+        {"source": "portland","target": "lagerstroemia indica","value": "852"},
+        {"source": "portland","target": "acer platanoides","value": "19209"},
+        {"source": "portland","target": "gleditsia triacanthos","value": "1412"}
+        ] }
