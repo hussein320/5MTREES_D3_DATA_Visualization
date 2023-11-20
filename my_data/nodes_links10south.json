@@ -1,0 +1,496 @@
+{
+    "nodes": [
+        {
+            "name": "california"
+        },
+        {
+            "name": "colorado"
+        },
+        {
+            "name": "texas"
+        },
+        {
+            "name": "louisiana"
+        },
+        {
+            "name": "florida"
+        },
+        {
+            "name": "los angeles"
+        },
+        {
+            "name": "platanus acerifolia"
+        },
+        {
+            "name": "lagerstroemia indica"
+        },
+        {
+            "name": "acer platanoides"
+        },
+        {
+            "name": "gleditsia triacanthos"
+        },
+        {
+            "name": "pyrus calleryana"
+        },
+        {
+            "name": "acer rubrum"
+        },
+        {
+            "name": "fraxinus pennsylvanica"
+        },
+        {
+            "name": "quercus virginiana"
+        },
+        {
+            "name": "liquidambar styraciflua"
+        },
+        {
+            "name": "tilia cordata"
+        },
+        {
+            "name": "rancho cucamonga"
+        },
+        {
+            "name": "sacramento"
+        },
+        {
+            "name": "san diego"
+        },
+        {
+            "name": "san francisco"
+        },
+        {
+            "name": "stockton"
+        },
+        {
+            "name": "denver"
+        },
+        {
+            "name": "houston"
+        },
+        {
+            "name": "new orleans"
+        },
+        {
+            "name": "orlando"
+        }
+    ],
+    "links": [
+        {
+            "source": "california",
+            "target": "los angeles",
+            "value": "90489"
+        },
+        {
+            "source": "los angeles",
+            "target": "platanus acerifolia",
+            "value": "17477"
+        },
+        {
+            "source": "los angeles",
+            "target": "lagerstroemia indica",
+            "value": "34729"
+        },
+        {
+            "source": "los angeles",
+            "target": "acer platanoides",
+            "value": "6"
+        },
+        {
+            "source": "los angeles",
+            "target": "gleditsia triacanthos",
+            "value": "456"
+        },
+        {
+            "source": "los angeles",
+            "target": "pyrus calleryana",
+            "value": "7500"
+        },
+        {
+            "source": "los angeles",
+            "target": "acer rubrum",
+            "value": "15"
+        },
+        {
+            "source": "los angeles",
+            "target": "quercus virginiana",
+            "value": "245"
+        },
+        {
+            "source": "los angeles",
+            "target": "liquidambar styraciflua",
+            "value": "30061"
+        },
+        {
+            "source": "california",
+            "target": "rancho cucamonga",
+            "value": "27633"
+        },
+        {
+            "source": "rancho cucamonga",
+            "target": "platanus acerifolia",
+            "value": "5698"
+        },
+        {
+            "source": "rancho cucamonga",
+            "target": "lagerstroemia indica",
+            "value": "12889"
+        },
+        {
+            "source": "rancho cucamonga",
+            "target": "gleditsia triacanthos",
+            "value": "8"
+        },
+        {
+            "source": "rancho cucamonga",
+            "target": "pyrus calleryana",
+            "value": "4941"
+        },
+        {
+            "source": "rancho cucamonga",
+            "target": "acer rubrum",
+            "value": "19"
+        },
+        {
+            "source": "rancho cucamonga",
+            "target": "quercus virginiana",
+            "value": "351"
+        },
+        {
+            "source": "rancho cucamonga",
+            "target": "liquidambar styraciflua",
+            "value": "3727"
+        },
+        {
+            "source": "california",
+            "target": "sacramento",
+            "value": "26478"
+        },
+        {
+            "source": "sacramento",
+            "target": "platanus acerifolia",
+            "value": "14111"
+        },
+        {
+            "source": "sacramento",
+            "target": "lagerstroemia indica",
+            "value": "4146"
+        },
+        {
+            "source": "sacramento",
+            "target": "acer platanoides",
+            "value": "79"
+        },
+        {
+            "source": "sacramento",
+            "target": "pyrus calleryana",
+            "value": "4285"
+        },
+        {
+            "source": "sacramento",
+            "target": "acer rubrum",
+            "value": "1924"
+        },
+        {
+            "source": "sacramento",
+            "target": "liquidambar styraciflua",
+            "value": "1933"
+        },
+        {
+            "source": "california",
+            "target": "san diego",
+            "value": "16423"
+        },
+        {
+            "source": "san diego",
+            "target": "platanus acerifolia",
+            "value": "1907"
+        },
+        {
+            "source": "san diego",
+            "target": "lagerstroemia indica",
+            "value": "2207"
+        },
+        {
+            "source": "san diego",
+            "target": "pyrus calleryana",
+            "value": "1986"
+        },
+        {
+            "source": "san diego",
+            "target": "liquidambar styraciflua",
+            "value": "10323"
+        },
+        {
+            "source": "california",
+            "target": "san francisco",
+            "value": "18950"
+        },
+        {
+            "source": "san francisco",
+            "target": "platanus acerifolia",
+            "value": "11925"
+        },
+        {
+            "source": "san francisco",
+            "target": "lagerstroemia indica",
+            "value": "102"
+        },
+        {
+            "source": "san francisco",
+            "target": "acer platanoides",
+            "value": "2"
+        },
+        {
+            "source": "san francisco",
+            "target": "gleditsia triacanthos",
+            "value": "117"
+        },
+        {
+            "source": "san francisco",
+            "target": "pyrus calleryana",
+            "value": "4036"
+        },
+        {
+            "source": "san francisco",
+            "target": "acer rubrum",
+            "value": "987"
+        },
+        {
+            "source": "san francisco",
+            "target": "quercus virginiana",
+            "value": "58"
+        },
+        {
+            "source": "san francisco",
+            "target": "liquidambar styraciflua",
+            "value": "1592"
+        },
+        {
+            "source": "san francisco",
+            "target": "tilia cordata",
+            "value": "131"
+        },
+        {
+            "source": "california",
+            "target": "stockton",
+            "value": "27624"
+        },
+        {
+            "source": "stockton",
+            "target": "platanus acerifolia",
+            "value": "7552"
+        },
+        {
+            "source": "stockton",
+            "target": "lagerstroemia indica",
+            "value": "7354"
+        },
+        {
+            "source": "stockton",
+            "target": "acer platanoides",
+            "value": "123"
+        },
+        {
+            "source": "stockton",
+            "target": "gleditsia triacanthos",
+            "value": "324"
+        },
+        {
+            "source": "stockton",
+            "target": "pyrus calleryana",
+            "value": "5296"
+        },
+        {
+            "source": "stockton",
+            "target": "acer rubrum",
+            "value": "1812"
+        },
+        {
+            "source": "stockton",
+            "target": "fraxinus pennsylvanica",
+            "value": "21"
+        },
+        {
+            "source": "stockton",
+            "target": "quercus virginiana",
+            "value": "137"
+        },
+        {
+            "source": "stockton",
+            "target": "liquidambar styraciflua",
+            "value": "4110"
+        },
+        {
+            "source": "stockton",
+            "target": "tilia cordata",
+            "value": "895"
+        },
+        {
+            "source": "colorado",
+            "target": "denver",
+            "value": "82322"
+        },
+        {
+            "source": "denver",
+            "target": "platanus acerifolia",
+            "value": "1814"
+        },
+        {
+            "source": "denver",
+            "target": "acer platanoides",
+            "value": "7945"
+        },
+        {
+            "source": "denver",
+            "target": "gleditsia triacanthos",
+            "value": "23565"
+        },
+        {
+            "source": "denver",
+            "target": "pyrus calleryana",
+            "value": "7133"
+        },
+        {
+            "source": "denver",
+            "target": "acer rubrum",
+            "value": "3084"
+        },
+        {
+            "source": "denver",
+            "target": "fraxinus pennsylvanica",
+            "value": "25736"
+        },
+        {
+            "source": "denver",
+            "target": "liquidambar styraciflua",
+            "value": "84"
+        },
+        {
+            "source": "denver",
+            "target": "tilia cordata",
+            "value": "12961"
+        },
+        {
+            "source": "texas",
+            "target": "houston",
+            "value": "94539"
+        },
+        {
+            "source": "houston",
+            "target": "lagerstroemia indica",
+            "value": "44320"
+        },
+        {
+            "source": "houston",
+            "target": "gleditsia triacanthos",
+            "value": "69"
+        },
+        {
+            "source": "houston",
+            "target": "pyrus calleryana",
+            "value": "2622"
+        },
+        {
+            "source": "houston",
+            "target": "acer rubrum",
+            "value": "963"
+        },
+        {
+            "source": "houston",
+            "target": "fraxinus pennsylvanica",
+            "value": "1154"
+        },
+        {
+            "source": "houston",
+            "target": "quercus virginiana",
+            "value": "44059"
+        },
+        {
+            "source": "houston",
+            "target": "liquidambar styraciflua",
+            "value": "1352"
+        },
+        {
+            "source": "louisiana",
+            "target": "new orleans",
+            "value": "55858"
+        },
+        {
+            "source": "new orleans",
+            "target": "lagerstroemia indica",
+            "value": "30244"
+        },
+        {
+            "source": "new orleans",
+            "target": "gleditsia triacanthos",
+            "value": "11"
+        },
+        {
+            "source": "new orleans",
+            "target": "pyrus calleryana",
+            "value": "2043"
+        },
+        {
+            "source": "new orleans",
+            "target": "acer rubrum",
+            "value": "1379"
+        },
+        {
+            "source": "new orleans",
+            "target": "fraxinus pennsylvanica",
+            "value": "153"
+        },
+        {
+            "source": "new orleans",
+            "target": "quercus virginiana",
+            "value": "21775"
+        },
+        {
+            "source": "new orleans",
+            "target": "liquidambar styraciflua",
+            "value": "253"
+        },
+        {
+            "source": "florida",
+            "target": "orlando",
+            "value": "34337"
+        },
+        {
+            "source": "orlando",
+            "target": "lagerstroemia indica",
+            "value": "14988"
+        },
+        {
+            "source": "orlando",
+            "target": "gleditsia triacanthos",
+            "value": "1"
+        },
+        {
+            "source": "orlando",
+            "target": "pyrus calleryana",
+            "value": "113"
+        },
+        {
+            "source": "orlando",
+            "target": "acer rubrum",
+            "value": "1814"
+        },
+        {
+            "source": "orlando",
+            "target": "fraxinus pennsylvanica",
+            "value": "11"
+        },
+        {
+            "source": "orlando",
+            "target": "quercus virginiana",
+            "value": "17126"
+        },
+        {
+            "source": "orlando",
+            "target": "liquidambar styraciflua",
+            "value": "284"
+        }
+    ]
+}
