@@ -1,0 +1,261 @@
+,state,year,mean
+0,arizona,1978,15
+1,arizona,1983,15
+2,arizona,1988,16
+3,arizona,1993,15
+4,arizona,1998,15
+5,arizona,2003,16
+6,arizona,2008,16
+7,arizona,2013,16
+8,arizona,2018,17
+9,arizona,2023,17
+10,california,1978,14
+11,california,1983,14
+12,california,1988,14
+13,california,1993,14
+14,california,1998,13
+15,california,2003,15
+16,california,2008,14
+17,california,2013,15
+18,california,2018,16
+19,california,2023,15
+20,colorado,1978,7
+21,colorado,1983,7
+22,colorado,1988,7
+23,colorado,1993,6
+24,colorado,1998,8
+25,colorado,2003,8
+26,colorado,2008,7
+27,colorado,2013,7
+28,colorado,2018,8
+29,colorado,2023,9
+30,florida,1978,21
+31,florida,1983,21
+32,florida,1988,21
+33,florida,1993,21
+34,florida,1998,22
+35,florida,2003,21
+36,florida,2008,21
+37,florida,2013,22
+38,florida,2018,22
+39,florida,2023,24
+40,iowa,1978,7
+41,iowa,1983,8
+42,iowa,1988,9
+43,iowa,1993,7
+44,iowa,1998,10
+45,iowa,2003,8
+46,iowa,2008,7
+47,iowa,2013,8
+48,iowa,2018,8
+49,iowa,2023,12
+50,kansas,1978,11
+51,kansas,1983,12
+52,kansas,1988,12
+53,kansas,1993,11
+54,kansas,1998,13
+55,kansas,2003,12
+56,kansas,2008,12
+57,kansas,2013,12
+58,kansas,2018,12
+59,kansas,2023,15
+60,kentucky,1978,12
+61,kentucky,1983,13
+62,kentucky,1988,12
+63,kentucky,1993,13
+64,kentucky,1998,14
+65,kentucky,2003,13
+66,kentucky,2008,13
+67,kentucky,2013,13
+68,kentucky,2018,13
+69,kentucky,2023,16
+70,louisiana,1978,18
+71,louisiana,1983,18
+72,louisiana,1988,18
+73,louisiana,1993,18
+74,louisiana,1998,20
+75,louisiana,2003,19
+76,louisiana,2008,19
+77,louisiana,2013,19
+78,louisiana,2018,19
+79,louisiana,2023,22
+80,maryland,1978,11
+81,maryland,1983,12
+82,maryland,1988,12
+83,maryland,1993,12
+84,maryland,1998,14
+85,maryland,2003,12
+86,maryland,2008,13
+87,maryland,2013,12
+88,maryland,2018,13
+89,maryland,2023,16
+90,massachusetts,1978,7
+91,massachusetts,1983,9
+92,massachusetts,1988,8
+93,massachusetts,1993,8
+94,massachusetts,1998,10
+95,massachusetts,2003,8
+96,massachusetts,2008,9
+97,massachusetts,2013,9
+98,massachusetts,2018,9
+99,massachusetts,2023,12
+100,michigan,1978,6
+101,michigan,1983,7
+102,michigan,1988,7
+103,michigan,1993,6
+104,michigan,1998,9
+105,michigan,2003,6
+106,michigan,2008,7
+107,michigan,2013,7
+108,michigan,2018,7
+109,michigan,2023,9
+110,missouri,1978,11
+111,missouri,1983,12
+112,missouri,1988,12
+113,missouri,1993,11
+114,missouri,1998,14
+115,missouri,2003,12
+116,missouri,2008,12
+117,missouri,2013,12
+118,missouri,2018,13
+119,missouri,2023,16
+120,nevada,1978,9
+121,nevada,1983,9
+122,nevada,1988,10
+123,nevada,1993,9
+124,nevada,1998,9
+125,nevada,2003,11
+126,nevada,2008,10
+127,nevada,2013,10
+128,nevada,2018,11
+129,nevada,2023,11
+130,new mexico,1978,12
+131,new mexico,1983,11
+132,new mexico,1988,11
+133,new mexico,1993,12
+134,new mexico,1998,12
+135,new mexico,2003,13
+136,new mexico,2008,12
+137,new mexico,2013,12
+138,new mexico,2018,13
+139,new mexico,2023,14
+140,new york,1978,6
+141,new york,1983,7
+142,new york,1988,7
+143,new york,1993,7
+144,new york,1998,9
+145,new york,2003,7
+146,new york,2008,7
+147,new york,2013,7
+148,new york,2018,8
+149,new york,2023,10
+150,north carolina,1978,14
+151,north carolina,1983,14
+152,north carolina,1988,14
+153,north carolina,1993,14
+154,north carolina,1998,16
+155,north carolina,2003,14
+156,north carolina,2008,15
+157,north carolina,2013,14
+158,north carolina,2018,16
+159,north carolina,2023,17
+160,ohio,1978,9
+161,ohio,1983,11
+162,ohio,1988,10
+163,ohio,1993,10
+164,ohio,1998,12
+165,ohio,2003,10
+166,ohio,2008,10
+167,ohio,2013,10
+168,ohio,2018,11
+169,ohio,2023,13
+170,oklahoma,1978,14
+171,oklahoma,1983,14
+172,oklahoma,1988,15
+173,oklahoma,1993,14
+174,oklahoma,1998,17
+175,oklahoma,2003,15
+176,oklahoma,2008,15
+177,oklahoma,2013,14
+178,oklahoma,2018,16
+179,oklahoma,2023,18
+180,oregon,1978,8
+181,oregon,1983,8
+182,oregon,1988,8
+183,oregon,1993,7
+184,oregon,1998,8
+185,oregon,2003,9
+186,oregon,2008,8
+187,oregon,2013,8
+188,oregon,2018,9
+189,oregon,2023,9
+190,pennsylvania,1978,8
+191,pennsylvania,1983,9
+192,pennsylvania,1988,9
+193,pennsylvania,1993,9
+194,pennsylvania,1998,11
+195,pennsylvania,2003,8
+196,pennsylvania,2008,9
+197,pennsylvania,2013,9
+198,pennsylvania,2018,9
+199,pennsylvania,2023,12
+200,south dakota,1978,6
+201,south dakota,1983,7
+202,south dakota,1988,8
+203,south dakota,1993,6
+204,south dakota,1998,8
+205,south dakota,2003,8
+206,south dakota,2008,6
+207,south dakota,2013,7
+208,south dakota,2018,7
+209,south dakota,2023,9
+210,tennessee,1978,13
+211,tennessee,1983,13
+212,tennessee,1988,13
+213,tennessee,1993,14
+214,tennessee,1998,16
+215,tennessee,2003,14
+216,tennessee,2008,14
+217,tennessee,2013,14
+218,tennessee,2018,15
+219,tennessee,2023,17
+220,texas,1978,17
+221,texas,1983,17
+222,texas,1988,18
+223,texas,1993,18
+224,texas,1998,19
+225,texas,2003,18
+226,texas,2008,18
+227,texas,2013,18
+228,texas,2018,19
+229,texas,2023,21
+230,virginia,1978,12
+231,virginia,1983,12
+232,virginia,1988,12
+233,virginia,1993,13
+234,virginia,1998,14
+235,virginia,2003,12
+236,virginia,2008,13
+237,virginia,2013,13
+238,virginia,2018,13
+239,virginia,2023,16
+240,washington,1978,7
+241,washington,1983,8
+242,washington,1988,8
+243,washington,1993,7
+244,washington,1998,9
+245,washington,2003,9
+246,washington,2008,7
+247,washington,2013,8
+248,washington,2018,9
+249,washington,2023,10
+250,wisconsin,1978,4
+251,wisconsin,1983,6
+252,wisconsin,1988,6
+253,wisconsin,1993,5
+254,wisconsin,1998,8
+255,wisconsin,2003,6
+256,wisconsin,2008,5
+257,wisconsin,2013,5
+258,wisconsin,2018,6
+259,wisconsin,2023,9
