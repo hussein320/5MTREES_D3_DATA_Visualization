@@ -301,7 +301,7 @@ svg.append("g")
   .attr("transform", "translate(0," + height + ")")
   .call(d3.axisBottom(x)
     .ticks(10)
-    .tickSize(-height)
+    .tickSize(-height+20)
     .tickFormat("")
   )
   .selectAll("line")
@@ -449,26 +449,26 @@ svg.append("g")
       .attr("x2", x(d.month))
       .attr("y1", y(+d.min) + 0.1)
       .attr("y2", y(+d.min) - 0.1)
-      .attr("stroke", "black")
-      .attr("stroke-width", 0.8)
+      .attr("stroke", "#1f77b4")
+      .attr("stroke-width", 0.5)
       .classed("hover-line", true);
 
       hover_box.append("rect")
-    .attr("x", width / 2 - 31) 
+    .attr("x", width / 2 - 112) 
     .attr("y", 0)              
-    .attr("width", 83)        
+    .attr("width", 246)        
     .attr("height", 20)          
     .style("fill", "rgba(31, 119, 180, 0.6)")
     .classed("hover-boxes", true);
       hover_box.append("text")
-        .attr("x", width/2-20)
+        .attr("x", width/2-69)
         .attr("y", 8)
         .attr("dy", ".5em")
         .style("text-anchor", "start")
         .style("fill","white")
         .classed("hover-boxes",true)
         .text(function () {
-        return d.year + " min"; 
+        return d.month +" "+ d.year + " min Tmp: " +d.min + " °C"; 
          });
   })
   .on("mouseout", function () {
@@ -513,26 +513,26 @@ svg.append("g")
     .attr("x2", x(d.month))
     .attr("y1", y(+d.max) + 0.1)
     .attr("y2", y(+d.max) - 0.1)
-    .attr("stroke", "black")
-    .attr("stroke-width", 0.8)
+    .attr("stroke", "#1f77b4")
+    .attr("stroke-width", 0.5)
     .classed("hover-line", true);
 
     hover_box.append("rect")
-    .attr("x", width / 2 - 31) 
+    .attr("x", width / 2 - 112) 
     .attr("y", 0)              
-    .attr("width", 83)        
+    .attr("width", 246)       
     .attr("height", 20)          
     .style("fill", "#1f77b4")
     .classed("hover-boxes", true);
       hover_box.append("text")
-        .attr("x", width/2-20)
+       .attr("x", width/2-69)
         .attr("y", 8)
         .attr("dy", ".5em")
         .style("text-anchor", "start")
         .style("fill","white")
         .classed("hover-boxes",true)
         .text(function () {
-        return d.year + " max"; 
+        return d.month+" " +d.year+ " max °C "+d.max; 
          });
 })
 .on("mouseout", function () {
@@ -565,26 +565,26 @@ document.getElementById('show').innerHTML = `
       .attr("x2", x(d.month))
       .attr("y1", y(+d.mean) + 0.1)
       .attr("y2", y(+d.mean) - 0.1)
-      .attr("stroke", "black")
-      .attr("stroke-width", 0.8)
+      .attr("stroke", "#1f77b4")
+      .attr("stroke-width", 0.5)
       .classed("hover-line", true);
 
       hover_box.append("rect")
-    .attr("x", width / 2 - 31) 
+    .attr("x", width / 2 - 112) 
     .attr("y", 0)              
-    .attr("width", 83)        
+    .attr("width", 246)       
     .attr("height", 20)          
     .style("fill", "rgba(31, 119, 180, 0.7)")
     .classed("hover-boxes", true);
       hover_box.append("text")
-        .attr("x", width/2-23)
+        .attr("x", width/2-69)
         .attr("y", 8)
         .attr("dy", ".5em")
         .style("text-anchor", "start")
         .style("fill","white")
         .classed("hover-boxes",true)
         .text(function () {
-        return d.year + " mean"; 
+        return d.month+" " +d.year+ " mean°C "+d.mean; 
          });
 })
 .on("mouseout", function () {
@@ -970,14 +970,14 @@ secondLegendEntries.append("text")
       .attr("x2", x(d.month))
       .attr("y1", y(+d.mean) + 0.1)
       .attr("y2", y(+d.mean) - 0.1)
-      .attr("stroke", "black")
-      .attr("stroke-width", 0.8)
+      .attr("stroke", function () { return yearColorMapping[d.year]; })
+      .attr("stroke-width", 0.5)
       .classed("hover-line", true);
 
       hover_box.append("rect")
-    .attr("x", width / 2 - 31) 
+    .attr("x", width / 2 - 112) 
     .attr("y", 0)              
-    .attr("width", 83)        
+    .attr("width", 246)       
     .attr("height", 20)          
     .style("fill", function () {
         var fillColor = yearColorMapping[d.year];
@@ -986,14 +986,14 @@ secondLegendEntries.append("text")
     })
     .classed("hover-boxes", true);
       hover_box.append("text")
-        .attr("x", width/2-23)
+        .attr("x", width/2-69)
         .attr("y", 8)
         .attr("dy", ".5em")
         .style("text-anchor", "start")
         .style("fill","white")
         .classed("hover-boxes",true)
         .text(function () {
-        return d.year + " mean"; 
+        return d.month+" " +d.year+ " mean°C "+d.mean; 
          });
 })
 .on("mouseout", function () {
@@ -1025,14 +1025,14 @@ secondLegendEntries.append("text")
       .attr("x2", x(d.month))
       .attr("y1", y(+d.min) + 0.1)
       .attr("y2", y(+d.min) - 0.1)
-      .attr("stroke", "black")
-      .attr("stroke-width", 0.8)
+      .attr("stroke", function () { return yearColorMapping[d.year]; })
+      .attr("stroke-width", 0.5)
       .classed("hover-line", true);
 
       hover_box.append("rect")
-    .attr("x", width / 2 - 31) 
+    .attr("x", width / 2 - 112) 
     .attr("y", 0)              
-    .attr("width", 83)        
+    .attr("width", 246)       
     .attr("height", 20)          
     .style("fill", function () {
         var fillColor = yearColorMapping[d.year];
@@ -1042,14 +1042,14 @@ secondLegendEntries.append("text")
 
     .classed("hover-boxes", true);
       hover_box.append("text")
-        .attr("x", width/2-23)
+       .attr("x", width/2-69)
         .attr("y", 8)
         .attr("dy", ".5em")
         .style("text-anchor", "start")
         .style("fill","white")
         .classed("hover-boxes",true)
         .text(function () {
-        return d.year + " min"; 
+        return d.month+" " +d.year+ " min °C "+d.min; 
          });
 })
 .on("mouseout", function () {
@@ -1079,26 +1079,26 @@ secondLegendEntries.append("text")
       .attr("x2", x(d.month))
       .attr("y1", y(+d.max) + 0.1)
       .attr("y2", y(+d.max) - 0.1)
-      .attr("stroke", "black")
-      .attr("stroke-width", 0.8)
+      .attr("stroke", function () { return yearColorMapping[d.year]; })
+      .attr("stroke-width", 0.5)
       .classed("hover-line", true);
 
       hover_box.append("rect")
-    .attr("x", width / 2 - 31) 
+    .attr("x", width / 2 - 112) 
     .attr("y", 0)              
-    .attr("width", 83)        
+    .attr("width", 246)       
     .attr("height", 20)          
     .style("fill", function () { return yearColorMapping[d.year];})
     .classed("hover-boxes", true);
       hover_box.append("text")
-        .attr("x", width/2-23)
+        .attr("x", width/2-69)
         .attr("y", 8)
         .attr("dy", ".5em")
         .style("text-anchor", "start")
         .style("fill","white")
         .classed("hover-boxes",true)
         .text(function () {
-        return d.year + " max"; 
+        return d.month+" " +d.year+ " max °C "+d.max; 
          });
 })
 .on("mouseout", function () {
